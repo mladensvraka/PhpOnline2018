@@ -9,10 +9,10 @@
 #treci zadatak
 
 $i = 1;
-while ($i <= 50):
+while ($i <= 50);
 {
     $zbroj += $i;
     $i++;
 }
 
-echo $zbroj
+echo $zbroj;
